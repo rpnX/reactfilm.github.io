@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/reactfilm/static/css/main.4fdd4ac9.chunk.css",
-    "main.js": "/reactfilm/static/js/main.f621f43b.chunk.js",
-    "main.js.map": "/reactfilm/static/js/main.f621f43b.chunk.js.map",
+    "main.js": "/reactfilm/static/js/main.d0c7ddcf.chunk.js",
+    "main.js.map": "/reactfilm/static/js/main.d0c7ddcf.chunk.js.map",
     "runtime-main.js": "/reactfilm/static/js/runtime-main.5c6e9abd.js",
     "runtime-main.js.map": "/reactfilm/static/js/runtime-main.5c6e9abd.js.map",
     "static/js/2.c8e3698a.chunk.js": "/reactfilm/static/js/2.c8e3698a.chunk.js",
     "static/js/2.c8e3698a.chunk.js.map": "/reactfilm/static/js/2.c8e3698a.chunk.js.map",
     "index.html": "/reactfilm/index.html",
-    "precache-manifest.0ff905ce158dd8d77190bc0d33684029.js": "/reactfilm/precache-manifest.0ff905ce158dd8d77190bc0d33684029.js",
+    "precache-manifest.41e1f0bff3fda8136c720b5ebf5a9bc0.js": "/reactfilm/precache-manifest.41e1f0bff3fda8136c720b5ebf5a9bc0.js",
     "service-worker.js": "/reactfilm/service-worker.js",
     "static/css/main.4fdd4ac9.chunk.css.map": "/reactfilm/static/css/main.4fdd4ac9.chunk.css.map",
     "static/js/2.c8e3698a.chunk.js.LICENSE.txt": "/reactfilm/static/js/2.c8e3698a.chunk.js.LICENSE.txt",
-    "static/media/no_image.jpg": "/reactfilm/static/media/no_image.31f5bb1d.jpg",
+    "static/media/no_image.jpg": "/reactfilm/static/media/no_image.60bbc5f5.jpg",
     "static/media/tmdb_logo.svg": "/reactfilm/static/media/tmdb_logo.30cd724b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5c6e9abd.js",
     "static/js/2.c8e3698a.chunk.js",
     "static/css/main.4fdd4ac9.chunk.css",
-    "static/js/main.f621f43b.chunk.js"
+    "static/js/main.d0c7ddcf.chunk.js"
   ]
 }
